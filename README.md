@@ -19,6 +19,10 @@ Une fois la table cours.sql intégrée dans le container, il est possible via gr
 
 Nous obtenons le Dashboard suivant réalisé sur Grafana:
 
+[DashBoard](https://github.com/celine29730/Analyse-financi-re-sur-la-toile/blob/main/Dashboardfinal.png)
+
+
+
 
 
 
